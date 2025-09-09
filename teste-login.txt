@@ -3,3 +3,11 @@ digitar email
 digitar senha 
 clicar no botão
 validar se estou logado.
+
+
+
+Teste 1
+
+Teste 2
+
+Teste 3
